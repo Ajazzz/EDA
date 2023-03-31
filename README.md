@@ -11,8 +11,8 @@ To run this project, you will need Python 3 and the following libraries:
 + **Pandas** 
 + **NumPy** 
 + **Matplotlib** 
-Seaborn
-Scikit-learn
++ **Seaborn** 
++ **Scikit-learn** 
 These libraries can be installed using `pip`, the Python package installer. Open a command prompt and run the following command:
 
 *pip install pandas numpy matplotlib seaborn scikit-learn*
