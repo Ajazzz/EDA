@@ -38,7 +38,8 @@ but in this project, we will load it from a CSV file.
 ### Results
 Our analysis cover all the basics to advanced EDA and data cleansing methods using different python functions.
 
-
+### Contributing
+We welcome contributions to this project! If you find any issues or have any suggestions, please submit a GitHub issue or pull request.
 
 
 
