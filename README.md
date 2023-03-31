@@ -27,3 +27,9 @@ Alternatively, you can install the Anaconda distribution, which includes these l
 To run this project, download the repository and open the Jupyter notebook main.ipynb. 
 This notebook contains the Python code and comments explaining the data cleaning, visualization, and statistical analysis steps. 
 You can run each code cell by pressing Shift + Enter.
+
+
+### Data
+The dataset used in this project is Data ( Different Datasets), which contains information about different variables. 
+And you can also play with different in-build datasets available in scikit-learn library,
+but in this project, we will load it from a CSV file.
