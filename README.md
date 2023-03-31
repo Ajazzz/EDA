@@ -14,3 +14,5 @@ Matplotlib
 Seaborn
 Scikit-learn
 These libraries can be installed using pip, the Python package installer. Open a command prompt and run the following command:
+
+pip install pandas numpy matplotlib seaborn scikit-learn
