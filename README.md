@@ -8,7 +8,7 @@ This project is an analysis of the different data sets, using Python for data cl
 Installation
 To run this project, you will need Python 3 and the following libraries:
 
-**Pandas**
++**Pandas**,
 NumPy
 Matplotlib
 Seaborn
