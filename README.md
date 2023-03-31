@@ -33,3 +33,14 @@ You can run each code cell by pressing Shift + Enter.
 The dataset used in this project is Data ( Different Datasets), which contains information about different variables. 
 And you can also play with different in-build datasets available in scikit-learn library,
 but in this project, we will load it from a CSV file.
+
+
+### Results
+Our analysis cover all the basics to advanced EDA and data cleansing methods using different python functions.
+
+
+
+
+
+
+
