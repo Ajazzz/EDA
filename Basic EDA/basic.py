@@ -46,6 +46,7 @@ corr_matrix = df.corr()
 # Heatmap
 sns.heatmap(corr_matrix, annot=True, cmap='coolwarm')
 
+# This is just a basic EDA workflow in Python. You can customize this workflow based on the specific requirements of your project.
 
 
 
