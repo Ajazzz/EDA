@@ -36,3 +36,6 @@ sns.boxplot(data=df, x='column_name')
 
 # Bar plot
 sns.countplot(data=df, x='column_name')
+
+
+# Correlation analysis: Check for correlations between variables using the corr() function, and visualize the correlations using a heatmap.
