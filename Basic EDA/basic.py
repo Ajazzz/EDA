@@ -39,3 +39,13 @@ sns.countplot(data=df, x='column_name')
 
 
 # Correlation analysis: Check for correlations between variables using the corr() function, and visualize the correlations using a heatmap.
+
+# Correlation matrix
+corr_matrix = df.corr()
+
+# Heatmap
+sns.heatmap(corr_matrix, annot=True, cmap='coolwarm')
+
+
+
+
