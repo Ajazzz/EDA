@@ -17,3 +17,7 @@ arr = np.random.rand(10)
 
 # Winsorize the array to keep only values within the 10th and 90th percentiles
 winsorized_arr = winsorize(arr, (10, 90))
+
+# In this example, the winsorize function takes in a numpy array and a tuple representing the lower and upper percentile limits. 
+# It calculates the percentile limits using the np.percentile function, then replaces any values in the array that are outside those limits with the limit value. 
+# Finally, it returns the winsorized array.
