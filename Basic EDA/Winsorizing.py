@@ -12,3 +12,8 @@ def winsorize(arr, limits):
     arr[arr > upper_limit] = upper_limit
     return arr
 # Here's an example usage:
+# Create a numpy array with random values
+arr = np.random.rand(10)
+
+# Winsorize the array to keep only values within the 10th and 90th percentiles
+winsorized_arr = winsorize(arr, (10, 90))
