@@ -28,3 +28,4 @@ print(duplicates)
 
 
 # check for duplicates based on specific columns
+duplicates = df[df.duplicated(subset=['Name', 'City'])]
