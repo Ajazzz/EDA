@@ -18,3 +18,7 @@ duplicates = df[df.duplicated()]
 
 # print the duplicate rows
 print(duplicates)
+
+
+This code creates a sample DataFrame with columns for name, age, and city, and then checks for duplicates using the duplicated() method. 
+The resulting DataFrame duplicates contains only the rows that are duplicates of previous rows based on all columns.
