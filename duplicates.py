@@ -29,4 +29,4 @@ print(duplicates)
 
 # check for duplicates based on specific columns
 duplicates = df[df.duplicated(subset=['Name', 'City'])]
-This would return a DataFrame containing only the rows that have the same "Name" and "City" values as previous rows.
+#This would return a DataFrame containing only the rows that have the same "Name" and "City" values as previous rows.
