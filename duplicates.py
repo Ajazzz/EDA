@@ -23,5 +23,5 @@ print(duplicates)
 # This code creates a sample DataFrame with columns for name, age, and city, and then checks for duplicates using the duplicated() method. 
 # The resulting DataFrame duplicates contains only the rows that are duplicates of previous rows based on all columns.
 
-If you want to check for duplicates based on specific columns, you can pass a list of column names to the subset parameter of the duplicated() method. 
+# If you want to check for duplicates based on specific columns, you can pass a list of column names to the subset parameter of the duplicated() method. 
 For example, to check for duplicates based only on the "Name" and "City" columns, you could modify the code like this:
