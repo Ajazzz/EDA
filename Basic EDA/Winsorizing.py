@@ -20,4 +20,4 @@ winsorized_arr = winsorize(arr, (10, 90))
 
 ''' In this example, the winsorize function takes in a numpy array and a tuple representing the lower and upper percentile limits. 
 # It calculates the percentile limits using the np.percentile function, then replaces any values in the array that are outside those limits with the limit value. 
-# Finally, it returns the winsorized array.
+# Finally, it returns the winsorized array.'''
