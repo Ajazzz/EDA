@@ -15,7 +15,7 @@ def winsorize(arr, limits):
     Create a numpy array with random values '''
 arr = np.random.rand(10)
 
-''' Winsorize the array to keep only values within the 10th and 90th percentiles'''
+''' Winsorize the array to keep only values within the 10th and 90th percentiles '''
 winsorized_arr = winsorize(arr, (10, 90))
 
 # In this example, the winsorize function takes in a numpy array and a tuple representing the lower and upper percentile limits. 
