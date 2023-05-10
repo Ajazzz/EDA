@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 
-# Load data: Load the data into a Pandas dataframe using the read_csv function.
+''' Load data: Load the data into a Pandas dataframe using the read_csv function.
 df = pd.read_csv('data.csv')
 
 # Get an overview of the data: Use the head() and tail() functions to view the first and last rows of the dataframe, respectively. 
