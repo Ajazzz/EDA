@@ -11,7 +11,7 @@ import seaborn as sns
 df = pd.read_csv('data.csv')
 
 '''Get an overview of the data: Use the head() and tail() functions to view the first and last rows of the dataframe, respectively. 
-Also, use the info() function to get information about the data types of each column and the describe() function to get basic statistical information about the dataframe.'''
+Also, use the info() function to get information about the data types of each column and the describe() function to get basic statistical information about the dataframe. '''
 
 print(df.head())
 print(df.tail())
