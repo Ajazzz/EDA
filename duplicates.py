@@ -24,7 +24,7 @@ print(duplicates)
     The resulting DataFrame duplicates contains only the rows that are duplicates of previous rows based on all columns.'''
 
 ''' If you want to check for duplicates based on specific columns, you can pass a list of column names to the subset parameter of the duplicated() method. 
-# For example, to check for duplicates based only on the "Name" and "City" columns, you could modify the code like this: '''
+For example, to check for duplicates based only on the "Name" and "City" columns, you could modify the code like this: '''
 
 
 # check for duplicates based on specific columns
