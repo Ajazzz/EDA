@@ -27,6 +27,6 @@ print(duplicates)
     For example, to check for duplicates based only on the "Name" and "City" columns, you could modify the code like this: '''
 
 
-# check for duplicates based on specific columns
+''' check for duplicates based on specific columns
 duplicates = df[df.duplicated(subset=['Name', 'City'])]
 # This would return a DataFrame containing only the rows that have the same "Name" and "City" values as previous rows.
